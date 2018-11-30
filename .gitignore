@@ -1,0 +1,12 @@
+/nbproject/private/
+/nbproject/
+/node_modules/
+/bower_components/
+/public/bower_components/
+npm-debug.log
+/public/dist/css/*.css
+/public/dist/css/*.map
+/public/dist/fonts/*
+/test/UI-tests/target/*
+/test/UI-tests/.idea/*
+/test/UI-tests/lib/*

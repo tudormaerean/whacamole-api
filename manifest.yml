@@ -1,0 +1,10 @@
+path: .
+memory: 128M
+instances: 1
+disk_quota: 256M
+applications:
+- name: jsc-tudormaerean-whacamole-api-dev
+  domain: w3ibm.mybluemix.net
+  host: jsc-tudormaerean-whacamole-api-dev
+  env:
+    NODE_ENV: development
